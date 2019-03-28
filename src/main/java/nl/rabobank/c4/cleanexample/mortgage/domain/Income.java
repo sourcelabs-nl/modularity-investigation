@@ -8,4 +8,6 @@ import lombok.Getter;
 public class Income {
 
     private int amount;
+    private Iets iets;
+    private Nogiets nogiets;
 }
