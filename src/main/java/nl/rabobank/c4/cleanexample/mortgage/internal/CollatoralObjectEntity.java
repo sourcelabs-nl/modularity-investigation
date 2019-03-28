@@ -1,22 +1,16 @@
-package nl.rabobank.c4.cleanexample.mortgage;
+package nl.rabobank.c4.cleanexample.mortgage.internal;
 
-import java.util.UUID;
-
-import javax.persistence.Entity;
-import javax.persistence.Id;
+import javax.persistence.Embeddable;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
 import lombok.Setter;
 
-@Entity
 @Getter
 @Setter
+@Embeddable
 @NoArgsConstructor
 class CollatoralObjectEntity {
-
-    @Id
-    private UUID id;
 
     private String name;
 }

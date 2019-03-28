@@ -1,6 +1,6 @@
 package nl.rabobank.c4.cleanexample.web;
 
-import nl.rabobank.c4.cleanexample.bankaccount.BankAccount;
+import nl.rabobank.c4.cleanexample.bankaccount.domain.BankAccount;
 import nl.rabobank.c4.cleanexample.bankaccount.BankAccountComponent;
 
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package nl.rabobank.c4.cleanexample.mortgage;
+package nl.rabobank.c4.cleanexample.mortgage.internal;
 
 import java.util.UUID;
 
@@ -10,13 +10,11 @@ import lombok.NoArgsConstructor;
 import lombok.Setter;
 
 @Entity
+@NoArgsConstructor
 @Getter
 @Setter
-@NoArgsConstructor
-class IncomeEntity {
+public class IetsEntity {
 
     @Id
     private UUID id;
-
-    private int income;
 }

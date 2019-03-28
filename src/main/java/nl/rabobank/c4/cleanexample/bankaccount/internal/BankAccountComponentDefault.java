@@ -1,4 +1,7 @@
-package nl.rabobank.c4.cleanexample.bankaccount;
+package nl.rabobank.c4.cleanexample.bankaccount.internal;
+
+import nl.rabobank.c4.cleanexample.bankaccount.BankAccountComponent;
+import nl.rabobank.c4.cleanexample.bankaccount.domain.BankAccount;
 
 import org.springframework.stereotype.Component;
 

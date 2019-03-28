@@ -1,4 +1,4 @@
-package nl.rabobank.c4.cleanexample.mortgage;
+package nl.rabobank.c4.cleanexample.mortgage.internal;
 
 import java.util.List;
 import java.util.UUID;

@@ -1,4 +1,4 @@
-package nl.rabobank.c4.cleanexample.bankaccount;
+package nl.rabobank.c4.cleanexample.bankaccount.internal;
 
 import javax.persistence.Entity;
 import javax.persistence.Id;

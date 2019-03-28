@@ -5,9 +5,7 @@ import lombok.Getter;
 
 @Getter
 @AllArgsConstructor
-public class Income {
+public class BonusRegelingen {
 
     private int amount;
-    private VakantieGeld vakantieGeld;
-    private BonusRegelingen bonusRegelingen;
 }

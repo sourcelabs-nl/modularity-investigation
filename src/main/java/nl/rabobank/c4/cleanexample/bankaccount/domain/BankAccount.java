@@ -1,4 +1,4 @@
-package nl.rabobank.c4.cleanexample.bankaccount;
+package nl.rabobank.c4.cleanexample.bankaccount.domain;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;
