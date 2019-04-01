@@ -20,6 +20,6 @@ public class MortgageController {
 
     @GetMapping()
     public List<Mortgage> getMorgage() {
-       return mortgageComponent.getMortgages();
+        return mortgageComponent.getMortgages();
     }
 }

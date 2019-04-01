@@ -1,4 +1,5 @@
 package nl.rabobank.c4.cleanexample.customer.internal;
+
 import nl.rabobank.c4.cleanexample.bankaccount.domain.BankAccount;
 import nl.rabobank.c4.cleanexample.bankaccount.BankAccountComponent;
 import nl.rabobank.c4.cleanexample.customer.CustomerComponent;
