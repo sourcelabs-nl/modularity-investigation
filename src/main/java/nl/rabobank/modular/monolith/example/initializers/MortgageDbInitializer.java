@@ -1,4 +1,4 @@
-package nl.rabobank.modular.monolith.example;
+package nl.rabobank.modular.monolith.example.initializers;
 
 import nl.rabobank.modular.monolith.example.bankaccount.BankAccountComponent;
 import nl.rabobank.modular.monolith.example.bankaccount.domain.BankAccount;

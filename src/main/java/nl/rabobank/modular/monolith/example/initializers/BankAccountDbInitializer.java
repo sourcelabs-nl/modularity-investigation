@@ -1,4 +1,4 @@
-package nl.rabobank.modular.monolith.example;
+package nl.rabobank.modular.monolith.example.initializers;
 
 import nl.rabobank.modular.monolith.example.mortgage.MortgageComponent;
 import nl.rabobank.modular.monolith.example.mortgage.domain.BonusRegelingen;
